@@ -12,14 +12,20 @@
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
             ],
-            "c/simpleCalculator": [
-                "simpleCalculator/simpleCalculator.js"
-            ],
             "c/meetingRoom": [
                 "meetingRoom/meetingRoom.js"
             ],
             "c/meetingRooms": [
                 "meetingRooms/meetingRooms.js"
+            ],
+            "c/simpleCalculator": [
+                "simpleCalculator/simpleCalculator.js"
+            ],
+            "c/publicMethodChild": [
+                "publicMethodChild/publicMethodChild.js"
+            ],
+            "c/publicMethodParent": [
+                "publicMethodParent/publicMethodParent.js"
             ]
         }
     },
