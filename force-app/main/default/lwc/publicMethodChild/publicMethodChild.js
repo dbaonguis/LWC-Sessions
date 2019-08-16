@@ -14,8 +14,8 @@ export default class PublicMethodChild extends LightningElement {
     @api
     selectCheckbox(checkboxValue) {
         //TODO: pag-aralan yung 'find' ng javascript
-        const selectedCheckbox = this.options.find(checkbox => {
-            return checkboxValue === checkbox.value;
+        const selectedCheckbox = this.options.find(option => {
+            return checkboxValue === option.value;
         });
 
         if (selectedCheckbox) {
