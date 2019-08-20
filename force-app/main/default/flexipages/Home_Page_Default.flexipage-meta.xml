@@ -32,9 +32,6 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>bmlCalculator</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentName>helloWorld</componentName>
         </componentInstances>
         <componentInstances>

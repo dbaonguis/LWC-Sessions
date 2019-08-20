@@ -4,12 +4,19 @@
         <componentInstances>
             <componentName>simpleCalculator</componentName>
         </componentInstances>
-        <name>main</name>
+        <name>column1</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentName>bmiCalculator</componentName>
+        </componentInstances>
+        <name>column2</name>
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Simple Calculator</masterLabel>
     <template>
-        <name>flexipage:defaultAppHomeTemplate</name>
+        <name>flexipage:appHomeTemplateTwoColumns</name>
     </template>
     <type>AppPage</type>
 </FlexiPage>
