@@ -35,7 +35,13 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentName>selectedMeetingRoom</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>lifecycleDemo</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>selectedMeetingRoom2</componentName>
         </componentInstances>
         <componentInstances>
             <componentName>publicMethodParent</componentName>
