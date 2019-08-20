@@ -3,9 +3,6 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/bmlCalculator": [
-                "bmlCalculator/bmlCalculator.js"
-            ],
             "c/conditionalRenderingExample": [
                 "conditionalRenderingExample/conditionalRenderingExample.js"
             ],
@@ -27,8 +24,23 @@
             "c/publicMethodParent": [
                 "publicMethodParent/publicMethodParent.js"
             ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/selectedMeetingRoom": [
+                "selectedMeetingRoom/selectedMeetingRoom.js"
+            ],
             "c/simpleCalculator": [
                 "simpleCalculator/simpleCalculator.js"
+            ],
+            "c/selectedMeetingRoom2": [
+                "selectedMeetingRoom2/selectedMeetingRoom2.js"
+            ],
+            "c/bmiCalculator": [
+                "bmiCalculator/bmiCalculator.js"
+            ],
+            "c/bmi": [
+                "bmi/bmi.js"
             ]
         }
     },
