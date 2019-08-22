@@ -3,6 +3,15 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/accountManagerLDS": [
+                "accountManagerLDS/accountManagerLDS.js"
+            ],
+            "c/bmi": [
+                "bmi/bmi.js"
+            ],
+            "c/bmiCalculator": [
+                "bmiCalculator/bmiCalculator.js"
+            ],
             "c/conditionalRenderingExample": [
                 "conditionalRenderingExample/conditionalRenderingExample.js"
             ],
@@ -30,17 +39,11 @@
             "c/selectedMeetingRoom": [
                 "selectedMeetingRoom/selectedMeetingRoom.js"
             ],
-            "c/simpleCalculator": [
-                "simpleCalculator/simpleCalculator.js"
-            ],
             "c/selectedMeetingRoom2": [
                 "selectedMeetingRoom2/selectedMeetingRoom2.js"
             ],
-            "c/bmiCalculator": [
-                "bmiCalculator/bmiCalculator.js"
-            ],
-            "c/bmi": [
-                "bmi/bmi.js"
+            "c/simpleCalculator": [
+                "simpleCalculator/simpleCalculator.js"
             ]
         }
     },
