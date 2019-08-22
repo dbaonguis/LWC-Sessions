@@ -11,6 +11,10 @@
     </classAccesses>
     <custom>true</custom>
     <tabVisibilities>
+        <tab>LDS</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Simple_Calculator</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
