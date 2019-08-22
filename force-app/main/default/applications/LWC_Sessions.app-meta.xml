@@ -12,6 +12,7 @@
     <navType>Standard</navType>
     <setupExperience>all</setupExperience>
     <tabs>Simple_Calculator</tabs>
+    <tabs>LDS</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>
