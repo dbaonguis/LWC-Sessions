@@ -3,8 +3,17 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/accountManagerApex": [
+                "accountManagerApex/accountManagerApex.js"
+            ],
             "c/accountManagerLDS": [
                 "accountManagerLDS/accountManagerLDS.js"
+            ],
+            "c/accountManagerLDSForms": [
+                "accountManagerLDSForms/accountManagerLDSForms.js"
+            ],
+            "c/accountRecordForm": [
+                "accountRecordForm/accountRecordForm.js"
             ],
             "c/bmi": [
                 "bmi/bmi.js"
