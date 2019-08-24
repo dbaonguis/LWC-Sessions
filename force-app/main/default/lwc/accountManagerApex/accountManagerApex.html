@@ -6,7 +6,7 @@
         </p>
         <template if:true={accountsRetrieved}>
             <ul>
-                <template for:each={accounts.data} for:item="account">
+                <template for:each={accounts} for:item="account">
                     <li key={account.Id}>
                         <div class="slds-p-around_medium lgc-bg">
                             <lightning-tile label={account.Name} type="media">
