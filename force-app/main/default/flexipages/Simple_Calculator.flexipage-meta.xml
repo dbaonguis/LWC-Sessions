@@ -11,6 +11,13 @@
         <componentInstances>
             <componentName>bmiCalculator</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>objectApiName</name>
+                <value>Contact</value>
+            </componentInstanceProperties>
+            <componentName>genericRecordForm</componentName>
+        </componentInstances>
         <name>column2</name>
         <type>Region</type>
     </flexiPageRegions>
