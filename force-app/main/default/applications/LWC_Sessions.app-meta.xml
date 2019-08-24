@@ -13,6 +13,7 @@
     <setupExperience>all</setupExperience>
     <tabs>Simple_Calculator</tabs>
     <tabs>LDS</tabs>
+    <tabs>Navigation</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>
