@@ -14,6 +14,7 @@
     <tabs>Simple_Calculator</tabs>
     <tabs>LDS</tabs>
     <tabs>Navigation</tabs>
+    <tabs>X3rd_Party_Library</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>
