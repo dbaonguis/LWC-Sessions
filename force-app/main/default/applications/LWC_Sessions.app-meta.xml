@@ -15,6 +15,7 @@
     <tabs>LDS</tabs>
     <tabs>Navigation</tabs>
     <tabs>X3rd_Party_Library</tabs>
+    <tabs>PageStateChange</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>

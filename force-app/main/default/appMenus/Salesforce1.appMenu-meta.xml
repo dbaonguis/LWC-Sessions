@@ -29,6 +29,10 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
+        <name>PageStateChange</name>
+        <type>CustomTab</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>Simple_Calculator</name>
         <type>CustomTab</type>
     </appMenuItems>
